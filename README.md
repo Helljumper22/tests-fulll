@@ -1,2 +1,3 @@
 # tests-fulll
-Simon Pacotte tests for Fulll
+## Algo Fuzzbuzz
+Open the fizzbuzz.html file, input a integer greater than 1 and press execute.
